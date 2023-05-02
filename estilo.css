@@ -1,0 +1,60 @@
+* {
+    margin: 5px;
+    padding: 5px;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    background-color: grey; 
+
+}
+
+main {
+    background-color: grey;
+}
+
+footer {
+    background-color: grey;
+    margin: 15px;
+}
+
+body {
+    background-color: grey;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+button {
+    background-color: rgb(255, 255, 255);
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 20px;    
+}
+
+button:hover{
+    background-color: black;
+    color: aliceblue;
+}
+
+h1 {
+    color: blue;
+    background-color: grey;  
+    margin-bottom: 15px;   
+}
+
+h1:hover{
+    color: aqua;
+}
+
+h3 {
+    color: blue;
+    margin: 15px;
+}
+
+h5 {
+    
+    }
+
